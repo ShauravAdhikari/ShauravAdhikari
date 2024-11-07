@@ -1,7 +1,7 @@
 Hi there! 👋 I’m @ShauravAdhikari, BCS student who's passionate about coding and problem-solving.
 -   
 - 📚 About Me
-- first year BCS student at @ Algoma University, and a aspiring software developer.
+- Second year BCS student at @ Algoma University, and a aspiring software developer.
 - currently, i'm learning rust and java, it has been enjoyable so far.
 - You can reach me by https://www.linkedin.com/in/shaurav-adhikari-aba6a4288/ or https://x.com/ShauravAd .
 
